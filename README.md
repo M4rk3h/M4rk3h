@@ -3,7 +3,11 @@ Hi 👋 My name is Mark Baber
 QA Engineer
 -----------
 
-I started coding when I went to university back in 2017 to study a BSc in Computer Application Development, followed by doing a MSc within Data Science. I've since worked as a Solutions Consultant where I worked with technologies such as Oracle Service Cloud (B2C) along with the telephony platform Five9.* 🌍  I'm based in Wales* 🖥️  See my portfolio at [Personal](http://mjbaber.co.uk)* ✉️  You can contact me at [5kjqkt8vh@mozmail.com](mailto:5kjqkt8vh@mozmail.com)* ⚡  I'm into Gaming (PC & Switch), Playing Guitar, Listening to Music, all things Twin Peaks
+I started coding when I went to university back in 2017 to study a BSc in Computer Application Development, followed by doing a MSc within Data Science. I've since worked as a Solutions Consultant where I worked with technologies such as Oracle Service Cloud (B2C) along with the telephony platform Five9.
+* 🌍  I'm based in Wales
+* 🖥️  See my portfolio at [Personal](http://mjbaber.co.uk)
+* ✉️  You can contact me at [5kjqkt8vh@mozmail.com](mailto:5kjqkt8vh@mozmail.com)
+* ⚡  I'm into Gaming (PC & Switch), Playing Guitar, Listening to Music, all things Twin Peaks
 
 ### Skills
 
