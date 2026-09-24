@@ -3,10 +3,12 @@ Hi 👋 My name is Mark Baber
 QA Engineer
 -----------
 
-I started coding when I went to university back in 2017 to study a BSc in Computer Application Development, followed by doing a MSc within Data Science. I've since worked as a Solutions Consultant where I worked with technologies such as Oracle Service Cloud (B2C) along with the telephony platform Five9.
+I first started coding back in 2017 while studying for a BSc in Computer Application Development, which I followed up with an MSc in Data Science. Professionally, I've worked as a Solutions Consultant (handling tech like Oracle Service Cloud and Five9) and as a QA Test Engineer (diving into automation with Selenium and C#, API testing with Postman and SoapUI, and agile workflows in Azure DevOps).
+
+Outside of tech, I'm a dad to a son, so my days involve plenty of playtime, dinosaurs, and songs. When I do get some free time to myself, you'll usually find me tinkering with desktop Linux and Linux servers, PC gaming (World of Warcraft! on Linux, naturally), retro handhelds and Nintendo gear (still loving my modded 3DS), or playing the guitar.
+
 * 🌍  I'm based in Wales
-* 🖥️  See my portfolio at [Personal](http://mjbaber.co.uk)
-* ✉️  You can contact me at [5kjqkt8vh@mozmail.com](mailto:5kjqkt8vh@mozmail.com)
+* ✉️  You can contact me at [mjbaber11@protonmail.com](mailto:mjbaber11@protonmail.com)
 * ⚡  I'm into Gaming (PC & Switch), Playing Guitar, Listening to Music, all things Twin Peaks
 
 ### Skills
